@@ -23,9 +23,9 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
 
-  <div style="margin-right: 50px;">
+  <div style="flex: 1;">
     <h4 align="center">Programming Languages</h4>
     <p align="center"> 
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -49,7 +49,7 @@
     </p>
   </div>
 
-  <div style="margin-right: 50px;">
+  <div style="flex: 1;">
     <h4 align="center">Frameworks and Libraries</h4>
     <p align="center">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -73,7 +73,7 @@
     </p>
   </div>
 
-  <div style="margin-right: 50px;">
+  <div style="flex: 1;">
     <h4 align="center">Version Control and CI/CD</h4>
     <p align="center">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -85,7 +85,7 @@
     </p>
   </div>
 
-  <div style="margin-right: 50px;">
+  <div style="flex: 1;">
     <h4 align="center">Tools and Platforms</h4>
     <p align="center">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -106,7 +106,7 @@
     </p>
   </div>
 
-  <div>
+  <div style="flex: 1;">
     <h4 align="center">Databases</h4>
     <p align="center">
       <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
