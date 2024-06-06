@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Andres Toro Blandon</h1>
+<h1 align="center">Hi, I'm Juan Andres Toro Blandon</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="center"> 
