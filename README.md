@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"  style="margin-top: -50px;"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"  style="margin-top: 100px;"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
