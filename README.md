@@ -10,17 +10,22 @@
   </ul>
 </div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"  style="margin-top: 100px;"/>
+<div style="position: relative;">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" style="position: absolute; top: 20px; right: 0;" />
+  
+  <div style="margin-right: 150px;">
+    ### 👨🏻‍💻 &nbsp;About Me
+    
+    👨‍💻 &nbsp;I am Currently Working at BubbleBox as FullStack Developer.\
+    💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+    🎓 &nbsp;I'm currently studying Software Analysis and Development.\
+    🌱 &nbsp;I'm on track for learning more about ReactJS, Machine Learning, Assembly, and NodeJS.\
+    ✍️ &nbsp;In my free time, I listen to music and play volleyball.\
+    ✉️ &nbsp;You can shoot me an email at jtoroblandon@gmail.com! I'll try to respond as soon as I can.\
+    <!--📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!-->
+  </div>
+</div>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-👨‍💻 &nbsp;I am Currently Working at BubbleBox as FullStack Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software Analysis and Development .\
-🌱 &nbsp;I'm on track for learning more about ReactJS, Machine Learning, Assembly, and NodeJS.\
-✍️ &nbsp;In my free time, I listen to music and play volleyball.\
-✉️ &nbsp;You can shoot me an email at jtoroblandon@gmail.com! I'll try to respond as soon as I can.\
-<!--📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!-->
 
 
 <!--- stats & Trophy (start) -->
