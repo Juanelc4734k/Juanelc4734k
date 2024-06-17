@@ -1,6 +1,14 @@
 ![Juanelc4734k Banner](assets/1.png)
 
-<img alt="Night Coding" width='40' align="left"/><h2 align="left">👋 &nbsp;Hey there! I'm Juan Andres Toro</h2>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+  </ul>
+</div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
