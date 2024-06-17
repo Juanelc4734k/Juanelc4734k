@@ -1,4 +1,4 @@
-![Juanelc4734k Banner](https://github.com/Juanelc4734k/Juanelc4734k/assets/1.png)
+![Juanelc4734k Banner](assets/1.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
