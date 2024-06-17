@@ -10,6 +10,8 @@
   </ul>
 </div>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at BubbleBox as FullStack Developer.\
@@ -20,7 +22,6 @@
 ✉️ &nbsp;You can shoot me an email at jtoroblandon@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!-->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
