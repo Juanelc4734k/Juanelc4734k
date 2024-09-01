@@ -14,6 +14,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at BubbleBox as FullStack Developer.\
+👨‍💻 &nbsp;You can go to my portfolio in https://juanelc4734k.github.io/Portafolio/index.html
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Software Analysis and Development .\
 🌱 &nbsp;I'm on track for learning more about ReactJS, Machine Learning, Assembly, and NodeJS.\
