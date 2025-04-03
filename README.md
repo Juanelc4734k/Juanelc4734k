@@ -11,16 +11,15 @@
 </div>
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at BubbleBox as FullStack Developer.\
-👨‍💻 &nbsp;You can go to my portfolio https://juanelc4734k.github.io/Portafolio/index.html
+👨‍💻 &nbsp;You can go to my portfolio https://juanelc4734k.github.io/Portafolio/index.html  
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Software Analysis and Development .\
 🌱 &nbsp;I'm on track for learning more about ReactJS, Machine Learning, Assembly, and NodeJS.\
-✍️ &nbsp;In my free time, I listen to music and play volleyball.\
-✉️ &nbsp;You can shoot me an email at jtoroblandon@gmail.com! I'll try to respond as soon as I can.\
-
+🎨 &nbsp;In my free time, I listen to music and play volleyball.\
+📩 &nbsp;You can shoot me an email at jtoroblandon@gmail.com! I'll try to respond as soon as I can.\
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -35,10 +34,8 @@
 </td>
 
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Juanelc4734k&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
@@ -50,24 +47,21 @@
     </a>
 </div>
 <!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know👨‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,androidstudio,angular,arch,arduino,bash,bootstrap,c,cpp,figma,js,java,kali,laravel,less,linux,mysql,nestjs,nodejs,npm,php,py,sass,react,sequelize,symfony,vim,vscode,vite,windows, html,atom &perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,androidstudio,angular,arch,arduino,bash,bootstrap,c,cpp,figma,js,java,kali,laravel,less,linux,mysql,nestjs,nodejs,npm,php,py,sass,react,sequelize,symfony,vim,vscode,vite,windows,html,atom&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -83,7 +77,13 @@
 <a href="https://x.com/Anonymo84144364" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/juanelc4734k/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/1025918247066943588" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+</p>
+
+<!--- Spotify Now Playing -->
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3172tw2yfhmmiqferibve24ttqni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Now Playing on Spotify" />
+  </a>
 </p>
 
 <!--- snake -->
@@ -99,15 +99,9 @@
 
 </div>
 
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
 
 Last Edited on: 17/06/2024
-
-
-
-
-
